@@ -1,0 +1,41 @@
+Test Cases --
+o heroe d’A Odisea
+o heroe d'A Odisea
+There’S An I5s-ue
+'90s
+'twas the night 'fore christmas
+‘twas the night ‘fore christmas
+pro-conscription
+O'Connor
+The Rus' were a people in early medieval eastern Europe.
+Xi'an
+Snake eyes == 2 1's
+Snake eyes == 2 1'S
+
+Blend (Expected) --
+O Heroe D’A Odisea
+O Heroe D'A Odisea
+There’S An I5s-Ue
+'90s
+'Twas The Night 'Fore Christmas
+‘Twas The Night ‘Fore Christmas
+Pro-Conscription
+O'Connor
+The Rus' Were A People In Early Medieval Eastern Europe.
+Xi'an
+Snake Eyes == 2 1's
+Snake Eyes == 2 1'S
+
+Forced (Expected) --
+O Heroe D’a Odisea
+O Heroe D'a Odisea
+There’s An I5s-Ue
+'90s
+'Twas The Night 'Fore Christmas
+‘Twas The Night ‘Fore Christmas
+Pro-Conscription
+O'connor
+The Rus' Were A People In Early Medieval Eastern Europe.
+Xi'an
+Snake Eyes == 2 1's
+Snake Eyes == 2 1's
